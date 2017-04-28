@@ -1,0 +1,10 @@
+{
+  "empId": "01",
+  "empName": "Yoda",
+  "forecastHolidays": ["02-05-2017","08-05-2017"],
+  "dateRange":
+  {
+    "startDate": "01-05-2017",
+    "endDate": "05-05-2017"
+  }
+}

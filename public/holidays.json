@@ -1,0 +1,57 @@
+{
+  "days":
+  [
+    {
+      "date": "01-01-2017",
+      "name": "New Year Day"
+    },
+
+    {
+      "date": "24-02-2017",
+      "name": "Independence Day"
+    },
+
+    {
+      "date": "14-04-2017",
+      "name": "Good Friday"
+    },
+
+    {
+      "date": "16-04-2017",
+      "name": "Easter Sunday"
+    },
+
+    {
+      "date": "01-05-2017",
+      "name": "Spring Day"
+    },
+    {
+      "date": "04-06-2017",
+      "name": "Pentecost"
+    },
+    {
+      "date": "23-06-2017",
+      "name": "Victory Day"
+    },
+    {
+      "date": "24-06-2017",
+      "name": "Midsummer Day"
+    },
+    {
+      "date": "20-08-2017",
+      "name": "Day of Restoration of Independence"
+    },
+    {
+      "date": "24-12-2017",
+      "name": "Christmas Eve"
+    },
+    {
+      "date": "25-12-2017",
+      "name": "Christmas Day"
+    },
+    {
+      "date": "26-12-2017",
+      "name": "Boxing Day"
+    }
+  ]
+}

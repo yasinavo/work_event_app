@@ -1,0 +1,21 @@
+{
+  "name": "myApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yasith",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "clone": "^2.1.1",
+    "express": "^4.15.2",
+    "jsonfile": "^3.0.0",
+    "moment": "^2.18.1",
+    "moment-business": "^3.0.1",
+    "mongoose": "^4.9.6"
+  }
+}
