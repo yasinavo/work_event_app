@@ -22,7 +22,6 @@ Enter any number as employee number to test and it will generate data for specif
 
 Sample JSON data and format:
 
-
 {
   "empName": "Yoda",
   "forecastHolidays": ["02-05-2017","08-05-2017"],
@@ -31,6 +30,7 @@ Sample JSON data and format:
     "startDate": "01-05-2017",
     "endDate": "08-05-2017"
   }
+}
 
 
 
