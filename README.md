@@ -1,4 +1,3 @@
-}
 
 ## Work Event Generator 2017 - Node.js
 
